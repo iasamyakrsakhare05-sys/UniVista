@@ -4,4 +4,5 @@ body {
 
 .hero-content, .logo, .hero-form-container, .login-form, .form-actions{
     color: rgb(162, 214, 219);
+    color: white;
 }
