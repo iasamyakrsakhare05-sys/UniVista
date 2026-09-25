@@ -89,7 +89,7 @@ header {
     flex: 1;
     background: none;
     border: none;
-    color: #9ca3af;
+    color: #C7C4D7;
     padding: 0.75rem;
     font-size: 1rem;
     cursor: pointer;
@@ -99,8 +99,10 @@ header {
 
 /* Interactivity hooks driven by script.js */
 .form-tabs button.active {
-    color: rgb(162, 214, 219);
-    border-bottom: 2px solid rgb(162, 214, 219);
+    color: #1000A9;
+    border: 8px;
+    background-color: #8083FF;
+    border-radius: 8px;
     font-weight: bold;
 }
 
