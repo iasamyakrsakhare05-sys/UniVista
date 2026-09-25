@@ -121,6 +121,15 @@ header {
   font-family: Sans;
 }
 
+.social-login h4{
+    border-right-width: 0px;
+    border-right-style: solid;
+    margin-right: 54px;
+    margin-left: 54px;
+    font-size: 10px;
+}
+
+
 .social-login button {
     background: rgba(255, 255, 255, 0.1);
     color: white;
@@ -179,7 +188,7 @@ header {
 }
 
 .submit-button {
-    background: rgb(162, 214, 219);
+    background: #C0C1FF;
     color: #11022c;
     border: none;
     padding: 0.75rem;
